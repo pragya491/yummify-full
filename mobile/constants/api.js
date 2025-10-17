@@ -1,0 +1,1 @@
+export const API_URL = "https://yummify-l3wz.onrender.com/api";
